@@ -1,0 +1,243 @@
+{
+  "note": "Очередь сценариев. Каждую ночь GitHub берёт первый, озвучивает через ElevenLabs и добавляет в приложение. Сценарии оригинальные, написаны для тренажёра.",
+  "items": [
+    {
+      "id": "agents-intern",
+      "title": "AI агент как стажёр",
+      "topic": "AI агенты",
+      "level": 3,
+      "text": "Right, so here's the thing nobody tells you about AI agents. They're not magic, they're more like a really keen intern. You give 'em a task, they crack on, and nine times out of ten it's brilliant. But that tenth time? They've gone off and done something completely daft, and they're dead confident about it. So what I'd say is, don't hand over the keys on day one. Let it have a go, check what it's done, and only then give it a bit more rope. Trust is earned, innit, even for software.",
+      "focus": [
+        { "phrase": "crack on", "note": "энергично взяться за дело, очень британское" },
+        { "phrase": "give it a bit more rope", "note": "дать больше свободы действий" },
+        { "phrase": "hand over the keys", "note": "передать полный контроль" }
+      ],
+      "reductions": [
+        { "written": "give them", "heard": "give 'em", "why": "them сжимается до 'em" },
+        { "written": "what I'd say is", "heard": "wot I'd say iz", "why": "слитно, t почти не слышно" },
+        { "written": "isn't it", "heard": "innit", "why": "разговорный британский хвостик" }
+      ]
+    },
+    {
+      "id": "trade-fair-stand",
+      "title": "Стенд, который продаёт сам",
+      "topic": "выставки",
+      "level": 3,
+      "text": "I've been doing trade fairs for donkey's years, and honestly, the stands that work aren't the biggest ones. They're the ones where you can tell what the company does from about twenty metres away. If I've gotta walk up and squint at a brochure, you've lost me. So we start with one sentence, one image, and loads of space for people to actually stand and chat. Everything else is a nice to have. Get that bit right and the leads more or less sort themselves out.",
+      "focus": [
+        { "phrase": "for donkey's years", "note": "очень давно, британская идиома" },
+        { "phrase": "you've lost me", "note": "ты меня потерял, мне неинтересно" },
+        { "phrase": "sort themselves out", "note": "решаются сами собой" }
+      ],
+      "reductions": [
+        { "written": "I have got to", "heard": "I've gotta", "why": "got to сливается в gotta" },
+        { "written": "what the company", "heard": "wotthe company", "why": "t глотается перед the" },
+        { "written": "more or less", "heard": "mor-or-less", "why": "связка через r" }
+      ]
+    },
+    {
+      "id": "video-brief",
+      "title": "Плохой бриф на видео",
+      "topic": "видеопродакшн",
+      "level": 3,
+      "text": "The worst brief I ever got just said, make it go viral. That was it. No audience, no budget, no deadline. So I rang them up and asked, who's actually gonna watch this, and what d'you want them to do afterwards? Long pause. Turns out they wanted fifty new installers to sign up before spring. Now that's a brief I can work with. Half the job in video isn't the filming, it's getting the client to tell you what they really want.",
+      "focus": [
+        { "phrase": "I rang them up", "note": "британское позвонил, вместо американского called" },
+        { "phrase": "turns out", "note": "оказалось" },
+        { "phrase": "that's a brief I can work with", "note": "вот с этим уже можно работать" }
+      ],
+      "reductions": [
+        { "written": "going to", "heard": "gonna", "why": "стандартная редукция" },
+        { "written": "do you want", "heard": "d'you want", "why": "do сжимается до d'" },
+        { "written": "what they", "heard": "wot they", "why": "t исчезает" }
+      ]
+    },
+    {
+      "id": "pricing-freelance",
+      "title": "Не продавай часы",
+      "topic": "фриланс и цены",
+      "level": 4,
+      "text": "If you're charging by the hour, you're basically punishing yourself for getting better. Think about it. The faster you get, the less you earn. Mad, isn't it? What I started doing a few years back was pricing the outcome instead. So rather than, it's sixty quid an hour, it's more like, this'll get you a launch video that's ready for the show in March. Clients don't actually care how long it took. They care that it's sorted, and that they don't have to chase you.",
+      "focus": [
+        { "phrase": "a few years back", "note": "несколько лет назад, разговорное" },
+        { "phrase": "quid", "note": "фунт стерлингов в разговоре" },
+        { "phrase": "it's sorted", "note": "всё решено, сделано" }
+      ],
+      "reductions": [
+        { "written": "this will", "heard": "this'll", "why": "will сжимается до 'll" },
+        { "written": "isn't it", "heard": "innit", "why": "в быстрой речи почти слитно" },
+        { "written": "don't have to", "heard": "dohn hafta", "why": "have to превращается в hafta" }
+      ]
+    },
+    {
+      "id": "focus-switch",
+      "title": "Переключить внимание за секунду",
+      "topic": "внимание и стресс",
+      "level": 3,
+      "text": "Before a big meeting my head used to go absolutely haywire. Every possible thing that could go wrong, on a loop. What helped, weirdly, wasn't trying to calm down. It was moving my attention on purpose. I'd listen to the traffic for ten seconds, then the hum of the fridge, then my own breathing. Just shifting it about. After a minute or so you realise you're the one steering, not the worry. It doesn't vanish, mind, it just stops running the show.",
+      "focus": [
+        { "phrase": "go haywire", "note": "пойти вразнос, сломаться" },
+        { "phrase": "on a loop", "note": "по кругу, без остановки" },
+        { "phrase": "stops running the show", "note": "перестаёт всем командовать" }
+      ],
+      "reductions": [
+        { "written": "used to", "heard": "yoostuh", "why": "used to сливается" },
+        { "written": "a minute or so", "heard": "a minnit-or-so", "why": "связка через r" },
+        { "written": "mind", "heard": "mind", "why": "британская вставка в конце фразы, имей в виду" }
+      ]
+    },
+    {
+      "id": "cold-email",
+      "title": "Холодное письмо, которое читают",
+      "topic": "продажи",
+      "level": 3,
+      "text": "Most cold emails go straight in the bin, and fair enough, they're rubbish. Three paragraphs about how amazing the sender is. Nobody cares. The ones I actually reply to are short and they've clearly done their homework. Something like, saw your stand in Frankfurt, loved the lighting, noticed your video's from twenty nineteen, fancy a quick chat about a refresh? That's it. Specific, a bit cheeky, and easy to say yes to.",
+      "focus": [
+        { "phrase": "fair enough", "note": "справедливо, и правильно" },
+        { "phrase": "done their homework", "note": "подготовились, изучили вопрос" },
+        { "phrase": "fancy a quick chat", "note": "не хотите быстро обсудить, британское fancy" }
+      ],
+      "reductions": [
+        { "written": "go straight in", "heard": "go strai-tin", "why": "t связывается с in" },
+        { "written": "they have clearly", "heard": "they've clearly", "why": "have сжимается" },
+        { "written": "a bit", "heard": "a bi'", "why": "глоттальная остановка вместо t" }
+      ]
+    },
+    {
+      "id": "learning-languages",
+      "title": "Почему третий язык легче",
+      "topic": "изучение языков",
+      "level": 3,
+      "text": "People assume the third language is harder than the second, but in my experience it's the other way round. By the time you get to number three, you've already learnt how to learn. You know you'll sound like an idiot for a few months and you've made your peace with it. The trick is not mixing them up in the same hour. I do my German bits in the morning and English in the evening, and that seems to keep 'em in separate boxes.",
+      "focus": [
+        { "phrase": "the other way round", "note": "наоборот, британский вариант around" },
+        { "phrase": "made your peace with it", "note": "смирился, принял" },
+        { "phrase": "keep them in separate boxes", "note": "держать раздельно" }
+      ],
+      "reductions": [
+        { "written": "learnt", "heard": "lernt", "why": "британская форма прошедшего времени" },
+        { "written": "you will", "heard": "you'll", "why": "will сжимается" },
+        { "written": "keep them", "heard": "keep 'em", "why": "them до 'em" }
+      ]
+    },
+    {
+      "id": "automation-boring",
+      "title": "Автоматизируй скучное",
+      "topic": "автоматизация",
+      "level": 4,
+      "text": "My rule of thumb is dead simple. If I've done the same fiddly thing three times, it gets automated. Renaming files, chasing invoices, sending the same follow up email. At first it feels like a faff, cos setting it up takes longer than just doing it. But you only pay that once. A year on, I reckon I'm saving the best part of a day a week, and more to the point, I'm not bored out of my mind on a Monday morning.",
+      "focus": [
+        { "phrase": "rule of thumb", "note": "практическое правило" },
+        { "phrase": "a faff", "note": "морока, лишняя возня, очень британское" },
+        { "phrase": "the best part of", "note": "почти целый, большая часть" }
+      ],
+      "reductions": [
+        { "written": "because", "heard": "cos", "why": "разговорное сокращение" },
+        { "written": "I reckon", "heard": "I reckon", "why": "британское я думаю, слышится быстро" },
+        { "written": "out of my mind", "heard": "outta my mind", "why": "out of сливается" }
+      ]
+    },
+    {
+      "id": "client-feedback",
+      "title": "Правки от клиента",
+      "topic": "работа с клиентами",
+      "level": 3,
+      "text": "When a client says, can you make it pop a bit more, your heart sinks a little. But I've learnt not to argue with it. I just ask, what's the one moment you'd show your boss? Nine times out of ten they point at something specific, and suddenly we're talking about that shot, that line, that colour. Vague feedback usually means they can feel something's off but haven't got the words. Your job's to give 'em the words.",
+      "focus": [
+        { "phrase": "your heart sinks", "note": "сердце уходит в пятки, становится тоскливо" },
+        { "phrase": "something's off", "note": "что то не так" },
+        { "phrase": "haven't got the words", "note": "не могут сформулировать, британское haven't got" }
+      ],
+      "reductions": [
+        { "written": "can you make it", "heard": "c'n ya make it", "why": "can и you ослабляются" },
+        { "written": "you would", "heard": "you'd", "why": "would сжимается" },
+        { "written": "your job is", "heard": "your job's", "why": "is сжимается до 's" }
+      ]
+    },
+    {
+      "id": "remote-team",
+      "title": "Команда в трёх странах",
+      "topic": "удалённая работа",
+      "level": 4,
+      "text": "Running a team across three countries sounds glamorous till you're on a call at seven in the morning with someone who's clearly still in bed. What's made the biggest difference for us isn't more meetings, it's fewer, but properly written up. If it's not in the doc, it didn't happen. Bit harsh, maybe, but it means nobody's left guessing, and the lads in Kyiv aren't waiting on a decision that got made in a corridor in Offenbach.",
+      "focus": [
+        { "phrase": "written up", "note": "оформлено письменно" },
+        { "phrase": "left guessing", "note": "остаются в неведении" },
+        { "phrase": "waiting on", "note": "ждут чего то, зависят от" }
+      ],
+      "reductions": [
+        { "written": "until", "heard": "till", "why": "разговорная форма" },
+        { "written": "what has made", "heard": "wot's made", "why": "has сжимается до 's" },
+        { "written": "got made in a", "heard": "go' made in a", "why": "глоттальная остановка" }
+      ]
+    },
+    {
+      "id": "pitch-opening",
+      "title": "Первые десять секунд питча",
+      "topic": "презентации",
+      "level": 3,
+      "text": "You've got about ten seconds before people decide whether to listen or check their phones. So don't waste 'em on, hi, my name is, and our company was founded in. Nobody's bothered. Open with the problem, in their words. Something like, your stand gets three thousand visitors and you can't remember a single one by Tuesday. Now they're leaning in. The intro can come later, once they actually care who you are.",
+      "focus": [
+        { "phrase": "nobody's bothered", "note": "никому это не интересно, британское bothered" },
+        { "phrase": "leaning in", "note": "внимательно слушают, подались вперёд" },
+        { "phrase": "in their words", "note": "их же словами" }
+      ],
+      "reductions": [
+        { "written": "you have got", "heard": "you've go'", "why": "t в конце глотается" },
+        { "written": "waste them", "heard": "waste 'em", "why": "them до 'em" },
+        { "written": "can't remember", "heard": "cahn remember", "why": "долгое британское a, t пропадает" }
+      ]
+    },
+    {
+      "id": "burnout",
+      "title": "Выгорание тихое",
+      "topic": "энергия и отдых",
+      "level": 3,
+      "text": "Burnout doesn't turn up with a big announcement. It creeps in. You stop enjoying the bits you used to love, everything feels like admin, and you're knackered even after a decent night's sleep. The mistake I made was thinking I just needed a holiday. I needed to stop saying yes to every single thing. A week off is lovely, but if you come back to the same overloaded calendar, you're back to square one by Wednesday.",
+      "focus": [
+        { "phrase": "it creeps in", "note": "подкрадывается незаметно" },
+        { "phrase": "knackered", "note": "вымотанный, очень британское" },
+        { "phrase": "back to square one", "note": "снова в начальной точке" }
+      ],
+      "reductions": [
+        { "written": "doesn't turn up", "heard": "dozn turn up", "why": "t пропадает" },
+        { "written": "used to", "heard": "yoostuh", "why": "слитно" },
+        { "written": "a week off", "heard": "a wee-koff", "why": "связка согласного с гласным" }
+      ]
+    },
+    {
+      "id": "negotiation-silence",
+      "title": "Сила паузы в переговорах",
+      "topic": "переговоры",
+      "level": 4,
+      "text": "The single best negotiating trick I've picked up costs nothing. When they name a price, you just say, hmm, and then shut up. Don't fill the gap. It's properly uncomfortable, especially for us, cos we're desperate to be nice. But nine times out of ten the other side jumps in with, well, we could probably do a bit better on that. You haven't argued, you haven't been rude. You've just let the silence do the heavy lifting.",
+      "focus": [
+        { "phrase": "picked up", "note": "перенял, научился по ходу" },
+        { "phrase": "properly uncomfortable", "note": "по настоящему неловко, британское properly" },
+        { "phrase": "do the heavy lifting", "note": "делать основную работу" }
+      ],
+      "reductions": [
+        { "written": "I have picked up", "heard": "I've picked up", "why": "have сжимается" },
+        { "written": "shut up", "heard": "shuh-tup", "why": "t связывается с гласной" },
+        { "written": "a bit better", "heard": "a bi' be'er", "why": "двойная глоттальная остановка" }
+      ]
+    },
+    {
+      "id": "agents-pipeline",
+      "title": "Конвейер из агентов",
+      "topic": "AI пайплайны",
+      "level": 4,
+      "text": "What's mad is you can now chain these things together. One agent goes off and finds the material, another one writes it up, a third checks the second one hasn't made anything up, and the whole lot lands in your inbox before you've had your first coffee. I'm not saying it's flawless. You still want a human glancing over the end result. But the bit in the middle, the slog, that's going, and honestly, good riddance.",
+      "focus": [
+        { "phrase": "chain together", "note": "соединить в цепочку" },
+        { "phrase": "the whole lot", "note": "всё целиком, британское" },
+        { "phrase": "good riddance", "note": "скатертью дорога, и хорошо что уходит" }
+      ],
+      "reductions": [
+        { "written": "what is mad", "heard": "wot's mad", "why": "is сжимается" },
+        { "written": "goes off and", "heard": "goes-off'n", "why": "and ослабляется до 'n" },
+        { "written": "you have had", "heard": "you've 'ad", "why": "h в had часто пропадает" }
+      ]
+    }
+  ]
+}

@@ -135,7 +135,34 @@
       }, 100);
     });
   }
+  let audioEl = null, audioStop = null;
+  function mountAudio(clip) {
+    if (poll) clearInterval(poll);
+    player = null; playerReady = false;
+    audioEl = new Audio(clip.audio);
+    audioEl.preload = "auto";
+    audioEl.addEventListener("timeupdate", function () {
+      if (audioStop != null && audioEl.currentTime >= audioStop) {
+        audioEl.pause(); audioStop = null;
+        const cb = onStop; onStop = null; if (cb) cb();
+      }
+    });
+    audioEl.addEventListener("ended", function () {
+      audioStop = null; const cb = onStop; onStop = null; if (cb) cb();
+    });
+  }
   function playRange(a, b, rate, done) {
+    if (current && current.audio && audioEl) {
+      audioEl.pause();
+      audioEl.playbackRate = rate || 1;
+      audioEl.currentTime = a;
+      audioStop = b; onStop = done || null;
+      const pr = audioEl.play();
+      if (pr && pr.catch) pr.catch(function () {});
+      const bar = document.getElementById("au-state");
+      if (bar) bar.textContent = "▶ играет " + (b - a) + " сек" + ((rate || 1) !== 1 ? ", скорость " + rate + "x" : "");
+      return;
+    }
     if (!player || !playerReady) { alert("Плеер ещё загружается, попробуй через пару секунд"); return; }
     try { player.setPlaybackRate(rate || 1); } catch (e) {}
     player.seekTo(a, true);
@@ -188,11 +215,13 @@
           (clip.level ? '<span class="tag">сложность ' + "★".repeat(clip.level) + '</span>' : "") +
         '</div>' +
         (clip.why ? '<p class="muted" style="margin:8px 0 0">' + esc(clip.why) + '</p>' : "") +
-        '<div class="player-wrap"><div id="yt"></div></div><div id="yt-err"></div>' +
+        (clip.audio
+          ? '<div class="audio-card"><div class="wave">' + Array.from({ length: 28 }, (_, i) => '<i style="height:' + (20 + Math.round(60 * Math.abs(Math.sin(i * 1.7)))) + '%"></i>').join("") + '</div><div class="muted" id="au-state">аудио ' + (clip.end - clip.start) + ' сек, текст откроется на сверке</div></div>'
+          : '<div class="player-wrap"><div id="yt"></div></div><div id="yt-err"></div>') +
         '<div class="steps" id="steps"></div>' +
       '</div>' +
       '<div id="level"></div>';
-    mountPlayer($("#yt"), clip);
+    if (clip.audio) mountAudio(clip); else mountPlayer($("#yt"), clip);
     renderSteps();
     renderLevel();
   }
@@ -281,10 +310,13 @@
     }
 
     if (level === 3) {
+      if (c.transcript && !p.ref) { p.ref = c.transcript; save(); }
+      const auto = !!c.transcript;
       box.innerHTML = '<div class="card"><h2>3. Сверка</h2>' +
-        '<p class="muted">Включи субтитры кнопкой CC в плеере и сравни со своим диктантом. Для автоматической сверки вставь ниже текст субтитров этого отрывка, он сохранится только у тебя на телефоне.</p>' +
+        (auto ? '<p class="muted">Вот оригинальный текст. Нажми «Сверить диктант», и красным подсветятся слова, которые ты не расслышал.</p>'
+              : '<p class="muted">Включи субтитры кнопкой CC в плеере и сравни со своим диктантом. Для автоматической сверки вставь ниже текст субтитров этого отрывка, он сохранится только у тебя на телефоне.</p>') +
         '<div class="row"><button id="play">▶ Ещё раз весь отрывок</button></div>' +
-        '<label>Текст субтитров (эталон)</label><textarea id="ref" placeholder="Вставь сюда субтитры отрывка">' + esc(p.ref || "") + '</textarea>' +
+        '<label>' + (auto ? 'Оригинальный текст' : 'Текст субтитров (эталон)') + '</label><textarea id="ref" placeholder="Вставь сюда субтитры отрывка">' + esc(p.ref || "") + '</textarea>' +
         '<div class="row"><button class="primary" id="cmp">Сверить диктант</button></div>' +
         '<div id="res"></div>' + focusTable(c) +
         '<div class="row" style="margin-top:14px"><button class="primary" id="next">Разобрал, дальше</button></div></div>';
@@ -341,6 +373,7 @@
     }
 
     if (level === 6) {
+      if (c.transcript && !p.ref) { p.ref = c.transcript; save(); }
       const hasRef = words(p.ref).length > 0;
       box.innerHTML = '<div class="card"><h2>6. Финальный тест</h2>' +
         '<p class="muted">Один прогон без субтитров, пиши дословно всё, что слышишь. Потом сравним со стартом.</p>' +
