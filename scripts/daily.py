@@ -105,7 +105,11 @@ def transcribe(path, offset, length):
     subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-ss", str(offset), "-t", str(length), "-i", path,
                     "-ac", "1", "-ar", "16000", "window.wav"], check=True)
     model = WhisperModel("small.en", device="cpu", compute_type="int8")
-    segs, _ = model.transcribe("window.wav", word_timestamps=True, vad_filter=True, language="en")
+    import wave
+    import numpy as np
+    with wave.open("window.wav", "rb") as wf:
+        audio = np.frombuffer(wf.readframes(wf.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
+    segs, _ = model.transcribe(audio, word_timestamps=True, vad_filter=True, language="en")
     words = []
     for s in segs:
         for w in s.words or []:
