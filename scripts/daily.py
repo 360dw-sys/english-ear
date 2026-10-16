@@ -71,6 +71,8 @@ def find_feed(podcast):
     res = json.loads(get(f"https://itunes.apple.com/search?{q}"))
     for r in res.get("results", []):
         name = (r.get("collectionName", "") + " " + r.get("artistName", "")).lower()
+        if podcast.get("exclude") and podcast["exclude"] in name:
+            continue
         if podcast["must"] in name and r.get("feedUrl"):
             return r["feedUrl"], r.get("collectionName")
     return None, None
