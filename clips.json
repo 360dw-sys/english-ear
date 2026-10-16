@@ -1,33 +1,4 @@
 {
   "updated": "2026-10-17",
-  "clips": [
-    {
-      "id": "bartlett-ai-01",
-      "date": "2026-10-17",
-      "title": "Два Стивена: человек против AI",
-      "speaker": "Steven Bartlett, The Diary of A CEO",
-      "accent": "британский",
-      "topic": "AI и будущее работы",
-      "level": 3,
-      "videoId": "pPgRSLLxMHo",
-      "start": 3589,
-      "end": 3626,
-      "why": "Быстрая живая речь, много связок и проглоченных слов. Тема прямо из твоей сферы, а риторический приём с мысленным экспериментом можно забрать в свои питчи.",
-      "focus": [
-        { "phrase": "there was one sat there", "note": "британское sat вместо sitting, мозг часто зависает именно тут" },
-        { "phrase": "a proxy for", "note": "условный показатель чего то, частое бизнес слово" },
-        { "phrase": "what would you have me do", "note": "каузативное have, уровень C1" },
-        { "phrase": "bear in mind", "note": "учти, имей в виду, более британское чем keep in mind" },
-        { "phrase": "through the lens of", "note": "через призму, сильная замена from the perspective of" }
-      ],
-      "reductions": [
-        { "written": "let's say", "heard": "lessay", "why": "слияние двух слов" },
-        { "written": "if you could", "heard": "if ya cud", "why": "you ослабляется до ya" },
-        { "written": "bear in mind", "heard": "berin mind", "why": "in проглатывается" },
-        { "written": "both of us", "heard": "both uh vus", "why": "of превращается в слабое uh" },
-        { "written": "I have to", "heard": "I hafta", "why": "стандартная редукция have to" },
-        { "written": "eight hours a day", "heard": "aytur za day", "why": "вся группа звучит одним словом" }
-      ]
-    }
-  ]
+  "clips": []
 }

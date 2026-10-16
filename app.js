@@ -112,7 +112,16 @@
       player = new YT.Player(el, {
         videoId: clip.videoId,
         playerVars: { start: clip.start, end: clip.end, playsinline: 1, rel: 0, modestbranding: 1, cc_load_policy: 0 },
-        events: { onReady: function () { playerReady = true; } }
+        events: {
+          onReady: function () { playerReady = true; },
+          onError: function (e) {
+            const box = document.getElementById("yt-err");
+            if (!box) return;
+            const why = (e.data === 101 || e.data === 150) ? "Автор запретил показ этого видео внутри других сайтов." : "YouTube не нашёл это видео или оно закрыто.";
+            box.innerHTML = '<div class="hint">' + why + ' Можно открыть его в YouTube на нужной секунде или заменить отрывок во вкладке «Отрывки».</div>' +
+              '<a class="ytlink" target="_blank" rel="noopener" href="https://www.youtube.com/watch?v=' + encodeURIComponent(clip.videoId) + '&t=' + clip.start + 's">Открыть в YouTube с ' + Math.floor(clip.start / 60) + ':' + String(clip.start % 60).padStart(2, "0") + '</a>';
+          }
+        }
       });
       poll = setInterval(function () {
         if (!player || !playerReady || stopAt == null) return;
@@ -162,7 +171,7 @@
     current = clip;
     const root = $("#view-today");
     if (!clip) {
-      root.innerHTML = '<div class="card"><h2>Пока нет отрывков</h2><p class="muted">Добавь свой во вкладке «Отрывки».</p></div>';
+      root.innerHTML = '<div class="card"><h2>Первый отрывок за тобой</h2><p class="muted">Открой вкладку «Отрывки» и добавь видео с британской речью по ссылке YouTube и таймкодам, до минуты. Дальше отрывки будет подбирать ночной агент.</p></div>';
       return;
     }
     const p = prog(clip.id);
@@ -179,7 +188,7 @@
           (clip.level ? '<span class="tag">сложность ' + "★".repeat(clip.level) + '</span>' : "") +
         '</div>' +
         (clip.why ? '<p class="muted" style="margin:8px 0 0">' + esc(clip.why) + '</p>' : "") +
-        '<div class="player-wrap"><div id="yt"></div></div>' +
+        '<div class="player-wrap"><div id="yt"></div></div><div id="yt-err"></div>' +
         '<div class="steps" id="steps"></div>' +
       '</div>' +
       '<div id="level"></div>';
