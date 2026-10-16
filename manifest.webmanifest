@@ -1,0 +1,26 @@
+{
+ "name": "English Ear",
+ "short_name": "English Ear",
+ "description": "Тренажёр восприятия живой английской речи на слух",
+ "start_url": "/",
+ "scope": "/",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#11131a",
+ "theme_color": "#11131a",
+ "lang": "ru",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}
