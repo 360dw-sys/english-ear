@@ -1,12 +1,13 @@
 Беру: The Diary Of A CEO with Steven Bartlett | Most Replayed Moment: Christian vs Atheist - Is Faith A Human Creation?
-Ошибка с подкастом The Diary Of A CEO with Steven Bartlett : No module named 'requests'
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Ошибка с подкастом The Diary Of A CEO with Steven Bartlett : open() got an unexpected keyword argument 'metadata_errors'
 Беру: The High Performance Podcast | Dr Chris van Tulleken: The Food Industry Wants to Buy My Silence
-Ошибка с подкастом The High Performance Podcast : No module named 'requests'
+Ошибка с подкастом The High Performance Podcast : open() got an unexpected keyword argument 'metadata_errors'
 Беру: The Rest Is Money | 322. Why French bond turmoil is good for Burnham
-Ошибка с подкастом The Rest Is Money : No module named 'requests'
+Ошибка с подкастом The Rest Is Money : open() got an unexpected keyword argument 'metadata_errors'
 Беру: The News Agents | Will the racism in Reform topple Nigel Farage?
-Ошибка с подкастом The News Agents : No module named 'requests'
-Беру: The Rest Is Politics: US | 230. What Happens When the Trump Loyalty Test Goes Wrong?
-Ошибка с подкастом The Rest Is Politics : No module named 'requests'
-Беру: Desert Island Discs | Meera Syal on holding up a mirror to British society in Goodness Gracious Me
+Ошибка с подкастом The News Agents : open() got an unexpected keyword argument 'metadata_errors'
+Беру: The Rest Is Politics | Addiction, Breakdown and Finding Persevilience: Rory Interviews Alastair
+Ошибка с подкастом The Rest Is Politics : open() got an unexpected keyword argument 'metadata_errors'
+Беру: Desert Island Discs | How Nick Cave's songs reveal themselves painfully to him
 TELEGRAM_TOKEN не задан, уведомление пропущено
