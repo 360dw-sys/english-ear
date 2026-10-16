@@ -155,10 +155,14 @@
     if (current && current.audio && audioEl) {
       audioEl.pause();
       audioEl.playbackRate = rate || 1;
-      audioEl.currentTime = a;
       audioStop = b; onStop = done || null;
-      const pr = audioEl.play();
-      if (pr && pr.catch) pr.catch(function () {});
+      const go = function () {
+        try { audioEl.currentTime = a; } catch (e) {}
+        const pr = audioEl.play();
+        if (pr && pr.catch) pr.catch(function () {});
+      };
+      if (audioEl.readyState >= 1) go();
+      else { audioEl.addEventListener("loadedmetadata", go, { once: true }); audioEl.load(); }
       const bar = document.getElementById("au-state");
       if (bar) bar.textContent = "▶ играет " + (b - a) + " сек" + ((rate || 1) !== 1 ? ", скорость " + rate + "x" : "");
       return;
@@ -215,6 +219,7 @@
           (clip.level ? '<span class="tag">сложность ' + "★".repeat(clip.level) + '</span>' : "") +
         '</div>' +
         (clip.why ? '<p class="muted" style="margin:8px 0 0">' + esc(clip.why) + '</p>' : "") +
+        (clip.episode_link ? '<p style="margin:6px 0 0"><a class="muted" target="_blank" rel="noopener" href="' + esc(clip.episode_link) + '">Весь выпуск</a></p>' : "") +
         (clip.audio
           ? '<div class="audio-card"><div class="wave">' + Array.from({ length: 28 }, (_, i) => '<i style="height:' + (20 + Math.round(60 * Math.abs(Math.sin(i * 1.7)))) + '%"></i>').join("") + '</div><div class="muted" id="au-state">аудио ' + (clip.end - clip.start) + ' сек, текст откроется на сверке</div></div>'
           : '<div class="player-wrap"><div id="yt"></div></div><div id="yt-err"></div>') +
@@ -313,7 +318,7 @@
       if (c.transcript && !p.ref) { p.ref = c.transcript; save(); }
       const auto = !!c.transcript;
       box.innerHTML = '<div class="card"><h2>3. Сверка</h2>' +
-        (auto ? '<p class="muted">Вот оригинальный текст. Нажми «Сверить диктант», и красным подсветятся слова, которые ты не расслышал.</p>'
+        (auto ? '<p class="muted">Вот расшифровка' + (c.auto_transcript ? ', сделанная автоматически, так что изредка в ней бывают мелкие неточности' : '') + '. Нажми «Сверить диктант», и красным подсветятся слова, которые ты не расслышал.</p>'
               : '<p class="muted">Включи субтитры кнопкой CC в плеере и сравни со своим диктантом. Для автоматической сверки вставь ниже текст субтитров этого отрывка, он сохранится только у тебя на телефоне.</p>') +
         '<div class="row"><button id="play">▶ Ещё раз весь отрывок</button></div>' +
         '<label>' + (auto ? 'Оригинальный текст' : 'Текст субтитров (эталон)') + '</label><textarea id="ref" placeholder="Вставь сюда субтитры отрывка">' + esc(p.ref || "") + '</textarea>' +

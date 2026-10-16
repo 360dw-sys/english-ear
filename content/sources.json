@@ -1,0 +1,11 @@
+{
+  "note": "Британские подкасты с живой разговорной речью. Конвейер ищет RSS через каталог Apple Podcasts и берёт свежие выпуски по очереди.",
+  "podcasts": [
+    { "search": "The Diary Of A CEO with Steven Bartlett", "must": "diary of a ceo", "topic": "бизнес и люди" },
+    { "search": "The High Performance Podcast", "must": "high performance", "topic": "успех и мышление" },
+    { "search": "The Rest Is Money", "must": "rest is money", "topic": "деньги и экономика" },
+    { "search": "The News Agents", "must": "news agents", "topic": "новости и политика" },
+    { "search": "The Rest Is Politics", "must": "rest is politics", "topic": "политика" },
+    { "search": "Desert Island Discs", "must": "desert island", "topic": "интервью о жизни" }
+  ]
+}
