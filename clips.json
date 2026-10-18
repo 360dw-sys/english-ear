@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -34,6 +34,24 @@
       "transcript": "They might have bacteria in them. They're very hard to handle at different temperatures. They go off. Just use polysorbate 80 or carboxymethylcellulose. They are like chemical compounds. Yeah, they're chemicals that bind fat to water. They create smooth. Are they made of food? Some of them are derived from animal fats or plant fats, but they're very chemically modified. Some of them are nearly entirely synthetic. So, they're just laboratory chemicals. So, we've got natural emulsifiers in food. We've got the synthetic emulsifiers in food. But the other set of emulsifiers we all know about is soap, right? Soap binds water to fat. So, if you haven't got greasy hands, you wash the fat down, then you just grab a dish, you get the butter off the dish.",
       "auto_transcript": true,
       "episode_link": "https://shows.acast.com/the-high-performance-podcast/episodes/chris-vant-rr",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-10-18-98072",
+      "date": "2026-10-18",
+      "title": "322. Why French bond turmoil is good for Burnham",
+      "speaker": "The Rest Is Money",
+      "accent": "британский",
+      "topic": "деньги и экономика",
+      "level": 3,
+      "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT2356623301.mp3",
+      "start": 823,
+      "end": 861,
+      "why": "Живая речь, фрагмент с 13:43 выпуска, темп около 160 слов в минуту.",
+      "transcript": "At that point, global investors, lenders to the UK, basically looked at the UK government and said, you may seem to have a big majority as a government, but nonetheless, you as Prime Minister can't command that majority. You're there for a weak government. We don't believe that you can get the public finances under control. That's one of the reasons why in the UK, whenever there has been this global rise in interest rates, interest rates in the UK paid by the British government have risen more. The price of its bonds have fallen further.",
+      "auto_transcript": true,
+      "episode_link": "",
       "focus": [],
       "reductions": []
     }
