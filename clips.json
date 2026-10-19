@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-19",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -52,6 +52,24 @@
       "transcript": "At that point, global investors, lenders to the UK, basically looked at the UK government and said, you may seem to have a big majority as a government, but nonetheless, you as Prime Minister can't command that majority. You're there for a weak government. We don't believe that you can get the public finances under control. That's one of the reasons why in the UK, whenever there has been this global rise in interest rates, interest rates in the UK paid by the British government have risen more. The price of its bonds have fallen further.",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-10-19-94552",
+      "date": "2026-10-19",
+      "title": "Will the racism in Reform topple Nigel Farage?",
+      "speaker": "The News Agents",
+      "accent": "британский",
+      "topic": "новости и политика",
+      "level": 4,
+      "audio": "https://episodes.captivate.fm/episode/c57f8879-9854-484b-aced-3f877ab5c507.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=c57f8879-9854-484b-aced-3f877ab5c507",
+      "start": 1550,
+      "end": 1587,
+      "why": "Живая речь, фрагмент с 25:50 выпуска, темп около 225 слов в минуту.",
+      "transcript": "He hates it. He certainly hated all the stuff into his finances. He hates this. I think there is a feeling. I think I completely imagine a resignation speech where he says what he believes and listeners and viewers can mock this and find it visible or even pathetic. But this is definitely I know what he believes, which is that the establishment, quote unquote, are out to get him or out to destroy him or out to destroy his party will not allow reform to survive, will not allow reform to contest an election in a fair way. And as I say, you can think about what you like about that. And I've certainly got some views about that. But nonetheless, I think that would be a fair reflection of what his belief would be.",
+      "auto_transcript": true,
+      "episode_link": "https://www.thenewsagents.co.uk/",
       "focus": [],
       "reductions": []
     }
