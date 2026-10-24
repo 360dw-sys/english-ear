@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23",
+  "updated": "2026-10-24",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -140,6 +140,24 @@
       "end": 897,
       "why": "Живая речь, фрагмент с 14:18 выпуска, темп около 192 слов в минуту.",
       "transcript": "Even if you're working on a desk in Itch SBC, the view from outside is, you're in banking, you're on loads of money. I think that's what we saw in the financial crisis was people who, and actually front desk workers were saying that. They were saying, we're getting all the jip from the customers about the profits that have nothing to do with our job. They're much higher up the ladder. I do understand why people don't like the banking sector when they are outside of it because they see it as just money-making, greedy. You don't put your rates up for savers as fast as you put up our rates when we've got mortgages with you.",
+      "auto_transcript": true,
+      "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-10-24-97240",
+      "date": "2026-10-24",
+      "title": "323. Are creditors too hard on the UK?",
+      "speaker": "The Rest Is Money",
+      "accent": "британский",
+      "topic": "деньги и экономика",
+      "level": 4,
+      "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT4290592627.mp3",
+      "start": 880,
+      "end": 918,
+      "why": "Живая речь, фрагмент с 14:40 выпуска, темп около 263 слов в минуту.",
+      "transcript": "The government doesn't have to find 35 billion tomorrow. That's true. In fact, they could never find it. They could just have spending restraint. I think what's not OK though is, and of course you can say, yes, the war might end. Things might get better. And if they do, we could change our plans. They could also get worse. The OBR is going to hand the government a central forecast. And you're going to have a set of plans in the budget of what you would do. So I think what we should be thinking of is like the chance I should set out a set of plans that says, if this is the forecast, that this is the truth in a year's time, here's what I would do. Here's the combination of tax rises and spending restraint that I'd be willing to live within. I'd be willing to go to the spending review and have it be settled on this.",
       "auto_transcript": true,
       "episode_link": "",
       "focus": [],

@@ -1,7 +1,5 @@
-Беру: The High Performance Podcast | Richard Hammond: Life After Top Gear & Turning Down the BBC (E444)
+Беру: The Rest Is Money | 323. Are creditors too hard on the UK?
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-[0;93m2026-10-23 10:27:17.605906960 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
-Не нашёл чистый фрагмент, пробую следующий подкаст
-Беру: The Rest Is Money | 324. Should banks pay more tax?
-Готово: 39 сек, 192 слов/мин
+[0;93m2026-10-24 09:46:02.915697518 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Готово: 38 сек, 263 слов/мин
 TELEGRAM_TOKEN не задан, уведомление пропущено
