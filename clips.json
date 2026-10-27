@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26",
+  "updated": "2026-10-27",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -196,6 +196,24 @@
       "transcript": "And I cannot tell you the emails, the messages that I have had from people over the last few days saying, A, they're absolutely devastated, B, how dare people choose to take away their choice. Very, very limited set of circumstances. People who've literally got less than six months to live have to have a diagnosis, have to go through various different stages. The reality is lots of people will pass away before they go through those stages because the process is so robust. A lady on the train just folded a little piece of paper up to me on my way back open. I opened it up and she said, thank you so much for everything that you've done. I'm so sorry. They didn't go well today. And that tipped me over the edge. So that is where the public are. The argument will not go away. The debate will not go away.",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-10-27-86227",
+      "date": "2026-10-27",
+      "title": "Matt Haig, writer",
+      "speaker": "Desert Island Discs",
+      "accent": "британский",
+      "topic": "интервью о жизни",
+      "level": 4,
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pcglc7.mp3",
+      "start": 1561,
+      "end": 1598,
+      "why": "Живая речь, фрагмент с 26:01 выпуска, темп около 194 слов в минуту.",
+      "transcript": "And I think I needed to sort of get out of myself a little bit and to worry about other people. I don't mean that I was like being selfish. I was just feeling the symptoms I was feeling, but it actually helped my symptoms a little bit to have worries that were outside of myself. Yeah, I think that was part of it. I think me starting to write seriously. And so I'd have moments where I was losing myself in the writing. I think what eventually happens is you hold on long enough and you realise your brain is lying to you. I was convinced I'd be dead at the age of 25.",
+      "auto_transcript": true,
+      "episode_link": "http://www.bbc.co.uk/programmes/m003246m",
       "focus": [],
       "reductions": []
     }
