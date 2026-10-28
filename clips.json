@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27",
+  "updated": "2026-10-28",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -214,6 +214,24 @@
       "transcript": "And I think I needed to sort of get out of myself a little bit and to worry about other people. I don't mean that I was like being selfish. I was just feeling the symptoms I was feeling, but it actually helped my symptoms a little bit to have worries that were outside of myself. Yeah, I think that was part of it. I think me starting to write seriously. And so I'd have moments where I was losing myself in the writing. I think what eventually happens is you hold on long enough and you realise your brain is lying to you. I was convinced I'd be dead at the age of 25.",
       "auto_transcript": true,
       "episode_link": "http://www.bbc.co.uk/programmes/m003246m",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-10-28-18350",
+      "date": "2026-10-28",
+      "title": "Mark Cuban: The Next Market Crash Is Where The Real Money Is Made!",
+      "speaker": "The Diary Of A CEO with Steven Bartlett",
+      "accent": "британский",
+      "topic": "бизнес и люди",
+      "level": 4,
+      "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3?fcv=x38yu3skuqzj979eu5q9kvvv",
+      "start": 3155,
+      "end": 3193,
+      "why": "Живая речь, фрагмент с 52:35 выпуска, темп около 195 слов в минуту.",
+      "transcript": "Yeah, it'll get cheaper, for sure. It already is a lot cheaper than it was two weeks ago. It's getting cheaper because those companies keep on borrowing and spending more money to get more power in order to power all the AI. I think this is surprising to hear from you because you're someone who built broadcast.com at a moment when we were living in an exponential era. Yeah, an analog era. Yeah. The Internet was, I mean, people were skeptical about the Internet. Yeah, when I said we're going to stream, or netcast is what we called it. They're like, you're an idiot, I'll just turn on the TV. You're an idiot, I'll just turn on the radio.",
+      "auto_transcript": true,
+      "episode_link": "",
       "focus": [],
       "reductions": []
     }
