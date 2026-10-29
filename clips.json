@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -232,6 +232,24 @@
       "transcript": "Yeah, it'll get cheaper, for sure. It already is a lot cheaper than it was two weeks ago. It's getting cheaper because those companies keep on borrowing and spending more money to get more power in order to power all the AI. I think this is surprising to hear from you because you're someone who built broadcast.com at a moment when we were living in an exponential era. Yeah, an analog era. Yeah. The Internet was, I mean, people were skeptical about the Internet. Yeah, when I said we're going to stream, or netcast is what we called it. They're like, you're an idiot, I'll just turn on the TV. You're an idiot, I'll just turn on the radio.",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-10-29-48694",
+      "date": "2026-10-29",
+      "title": "Why The Best Never Stop Feeling Fear",
+      "speaker": "The High Performance Podcast",
+      "accent": "британский",
+      "topic": "успех и мышление",
+      "level": 4,
+      "audio": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6ae080b9784e8b9d9cd37b2c/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=4AsG9lgbb9eHpsmfv8Id_6cmhVIb0uksIJo1vgmr35c",
+      "start": 1507,
+      "end": 1546,
+      "why": "Живая речь, фрагмент с 25:07 выпуска, темп около 246 слов в минуту.",
+      "transcript": "And he said that, you know, the paramedics, as they were leaving, someone had said, one of the production team had said, like, how bad is this? And one of the paramedics had said, this is a 9 out of 10. And they'd wheeled Glenn off. And so the fear, really, that we had was whether Glenn would survive, you know? And thank God he did, and, you know, remains healthy to this day. So that was kind of hanging over us, really. And the producer was like, I just need you to know this in case the worst happens, and we're live on air. Obviously, we have to kind of deal with that. So we were then live on air a few hours later, and we were doing our show after the game. And the producer said down my earpiece, like, in a really somber way, Jake, please, can you throw it to the break instantly?",
+      "auto_transcript": true,
+      "episode_link": "https://shows.acast.com/the-high-performance-podcast/episodes/why-the-best-never-stop-feeling-fear",
       "focus": [],
       "reductions": []
     }
