@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -268,6 +268,24 @@
       "transcript": "Okay, maybe the business rate relief, I'll give them that one because that increase in the threshold from 12 grand to 18 grand does make a tangible difference to small businesses. Does that help your business? Yeah, it does. So, that helps my fitness business in Newcastle. It's based on the value, your rateable value, which is basically your annual rent. So, if your annual rent is now less than £18,000 a year, you do not have to pay business rates. That will make a huge difference to, for example, the fitness business up north. It doesn't impact the slime because we're bigger than that and we pay bigger rents than that.",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-10-31-67226",
+      "date": "2026-10-31",
+      "title": "What happens if Trump loses these midterms?",
+      "speaker": "The News Agents",
+      "accent": "британский",
+      "topic": "новости и политика",
+      "level": 4,
+      "audio": "https://episodes.captivate.fm/episode/b6bcf345-b110-4834-a901-519020d79ea9.mp3?aw_0_1st.showid=c49390b9-6909-4cd3-a974-e270cf686f27&aw_0_1st.episodeid=b6bcf345-b110-4834-a901-519020d79ea9",
+      "start": 1083,
+      "end": 1120,
+      "why": "Живая речь, фрагмент с 18:03 выпуска, темп около 215 слов в минуту.",
+      "transcript": "So you have a lot of folks on the right who are actually interested in El Sayed because of his positions on Israel and that conflict. And so you've got sort of a strange bedfellows political situation emerging here in the United States. I mean, it's so interesting. We'll broaden the picture out in a minute. I just to give you I mean, Donald Trump has been relentless and unbelievable in his campaigning in the sense that, you know, every day he's in a different state. And yeah, he's got Air Force One. And yeah, you know, there's the motorcades and he doesn't have to wait around for buses or anything else to get himself to the venue. But it is he's still an 80 year old man.",
+      "auto_transcript": true,
+      "episode_link": "https://www.thenewsagents.co.uk/",
       "focus": [],
       "reductions": []
     }
