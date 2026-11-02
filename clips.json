@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -304,6 +304,24 @@
       "transcript": "I was losing my son, or at least there was a potential to do so, and I was losing what I really valued most, which was being in the cabinet and being able to really make a difference. So that was a moment in time. And you know what happened? My now wife, Margaret, I went into the surgery. She wasn't my doctor. Better make that clear, because the GMC don't like these things. But I went into the surgery, and she was the one on duty. And for the first and only time in my life, she took one look at me and said, I'll make you a cup of tea. Now, if every doctor had the time to make a patient a cup of tea, wouldn't that be a wonderful health service?",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-11-02-12806",
+      "date": "2026-11-02",
+      "title": "Professor Dame Parveen Kumar",
+      "speaker": "Desert Island Discs",
+      "accent": "британский",
+      "topic": "интервью о жизни",
+      "level": 4,
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pd5cn7.mp3",
+      "start": 1069,
+      "end": 1110,
+      "why": "Живая речь, фрагмент с 17:49 выпуска, темп около 225 слов в минуту.",
+      "transcript": "We were on a boat for three weeks. I had to do two hours every day of studies, which she came and taught me, just as well, because then when I came here, I had to apply for various schools. Where were you living? So we first of all lived very grandly with some friends in Regents Park, which was very nice. But then, you know, we had to move because my mother said we've got to get on with life. And then she got this job as warden of the Indian Student Hostel, where you kindly told us earlier that we lived in one room, which we did. I mean, was that a shock to the system that you'd- Well, it was a bit of a shock because I'd never ever, I mean, this thing is awful thing to say, but at that age, I never bashed myself.",
+      "auto_transcript": true,
+      "episode_link": "http://www.bbc.co.uk/programmes/m0032f8w",
       "focus": [],
       "reductions": []
     }
