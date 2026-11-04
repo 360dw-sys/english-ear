@@ -1,5 +1,5 @@
-Беру: The Diary Of A CEO with Steven Bartlett | James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate
+Беру: The High Performance Podcast | Harry Kane: The Ballon d’Or Winner Nobody Saw Coming
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-[0;93m2026-11-03 12:58:29.069305865 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
-Готово: 37 сек, 220 слов/мин
+[0;93m2026-11-04 13:14:37.286991958 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Готово: 53 сек, 255 слов/мин
 TELEGRAM_TOKEN не задан, уведомление пропущено
