@@ -1,7 +1,5 @@
-Беру: The News Agents | Spurs CEO: “We had a PLAN for Relegation” | Vinai Venkatesham EXCLUSIVE | The Sports Agents - The Sports Agents
+Беру: The Rest Is Politics | 585. Rory Goes to a Trump Rally and Will the Youth Protests Spread to Britain?
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-[0;93m2026-11-06 13:12:08.182877660 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
-Не нашёл чистый фрагмент, пробую следующий подкаст
-Беру: The Rest Is Politics | 586. Can the Democrats Capitalise on Trump's Midterm Disaster?
-Готово: 45 сек, 200 слов/мин
+[0;93m2026-11-07 11:53:54.381642671 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Готово: 37 сек, 239 слов/мин
 TELEGRAM_TOKEN не задан, уведомление пропущено
