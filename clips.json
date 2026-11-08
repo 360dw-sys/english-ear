@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07",
+  "updated": "2026-11-08",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -412,6 +412,24 @@
       "transcript": "There are these jokes. Essentially, what he's doing is it's a sort of compliment to the audience. He's saying, I'm not a politician who's going to do the kind of thing that you and I would be used to, which is this is a small town in Ohio. I'm going to come and I'm going to do 15 minutes. I'm going to get back on my plan. I'm going to be out. He's saying to his people, I love you. You're my people. I'm going to spend an hour and a minute. I'm going to talk to you about my home restoration. All of you guys like restoring your homes. I'm restoring my home, my home side house. You've got your own houses and I'll just tell you stories about my wife, me and the lights and this and the other.",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-11-08-26087",
+      "date": "2026-11-08",
+      "title": "Ann Patchett, writer",
+      "speaker": "Desert Island Discs",
+      "accent": "британский",
+      "topic": "интервью о жизни",
+      "level": 4,
+      "audio": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pgnh48.mp3",
+      "start": 1411,
+      "end": 1449,
+      "why": "Живая речь, фрагмент с 23:31 выпуска, темп около 214 слов в минуту.",
+      "transcript": "I wanted to be a comfortable reader. I wanted to be a comfortable writer, but I was a very clever child. I could tell stories. And I think that that's the reason that I'm not still in third grade being held back another year because I was I was clever and so they would pass me. So as you mentioned, it was in 1981 that you made the move to New York City to study at Sarah Lawrence College. And that was when you really started writing in earnest. What were you writing about and at what point did you manage to get something published? Well, it was funny because when I went to college, I wanted to be a poet and I signed up for a poetry class.",
+      "auto_transcript": true,
+      "episode_link": "http://www.bbc.co.uk/programmes/m0032qty",
       "focus": [],
       "reductions": []
     }
