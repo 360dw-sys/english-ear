@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -448,6 +448,24 @@
       "transcript": "Do you think God brought you back to comedy? You're sort of 20 years old at this point, but I've heard you talk a lot about how prayer and God played a role in you coming back to comedy and really sort of orientating your career towards comedy. Because I needed to know which lane had potential for me, because my situations were so desperate that I was willing to try almost anything because I had the heart for it. You know what I mean? So I just realized how weak I was morally if I could make a fast buck.",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-11-10-10343",
+      "date": "2026-11-10",
+      "title": "The Man Who Exposed How Big Tech Engineers Male Rage | Jon Ronson (E447)",
+      "speaker": "The High Performance Podcast",
+      "accent": "британский",
+      "topic": "успех и мышление",
+      "level": 4,
+      "audio": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6ae22f1da7833146e683151f/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=jF9oCZraAh3KXFO3yjhD8VpdVwgPWFMr5NvRKX1pjJA",
+      "start": 1949,
+      "end": 1987,
+      "why": "Живая речь, фрагмент с 32:29 выпуска, темп около 225 слов в минуту.",
+      "transcript": "I'd like to talk about the role of this podcast now in the world that we're in at the moment, because you were very good in your book at turning the lens on you and saying, you know what? I'm not looking at this from afar. I'm part of this world where I have to have a sense of purpose or I'll start to drift. And if I drift, you end up in the place that we've just been discussing. But we have a very heavy male audience on this show, probably 60, 70% male. Every single week, we release three episodes and we put people in front of them talking about discipline and resilience and improvement and ambition and achievement. You know, look what's written on the microphone in front of all of our faces, high performance.",
+      "auto_transcript": true,
+      "episode_link": "https://shows.acast.com/the-high-performance-podcast/episodes/jon-ronson-e447",
       "focus": [],
       "reductions": []
     }
