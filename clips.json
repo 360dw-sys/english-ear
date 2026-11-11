@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -466,6 +466,24 @@
       "transcript": "I'd like to talk about the role of this podcast now in the world that we're in at the moment, because you were very good in your book at turning the lens on you and saying, you know what? I'm not looking at this from afar. I'm part of this world where I have to have a sense of purpose or I'll start to drift. And if I drift, you end up in the place that we've just been discussing. But we have a very heavy male audience on this show, probably 60, 70% male. Every single week, we release three episodes and we put people in front of them talking about discipline and resilience and improvement and ambition and achievement. You know, look what's written on the microphone in front of all of our faces, high performance.",
       "auto_transcript": true,
       "episode_link": "https://shows.acast.com/the-high-performance-podcast/episodes/jon-ronson-e447",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-11-11-82452",
+      "date": "2026-11-11",
+      "title": "329. How close is a global markets crash?",
+      "speaker": "The Rest Is Money",
+      "accent": "британский",
+      "topic": "деньги и экономика",
+      "level": 4,
+      "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT3663935915.mp3",
+      "start": 1245,
+      "end": 1285,
+      "why": "Живая речь, фрагмент с 20:45 выпуска, темп около 210 слов в минуту.",
+      "transcript": "I mean, this is insanely big. They're going to lose that amount of money. That's how much they're going to burn. Yeah, lose that amount of money. Negative cash flow. Negative cash flow. They've got almost a billion users, but only 5% pay the money. No, I don't think it's right. I think OpenAI has got more than enough cash. It also has more importantly than cash, more importantly than imagination, a business that will do in the order of $35 to $40 billion of revenue this year with a path to doing that profitably and has lots and lots of customers. So there will always there will be a price at which you'll be attractive for an investor to come in and buy a chunk of that company or put capital into that company.",
+      "auto_transcript": true,
+      "episode_link": "",
       "focus": [],
       "reductions": []
     }
