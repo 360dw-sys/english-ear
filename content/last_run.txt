@@ -1,4 +1,8 @@
-Беру: The Rest Is Politics | What Living Under ISIS Taught Me About Extremism
+Беру: Desert Island Discs | Richard Osman on managing his eating disorder
+Беру: The Diary Of A CEO with Steven Bartlett | Most Replayed Moment: The Childhood Scripts Still Running Your Life! Chase Hughes
+Ошибка с подкастом The Diary Of A CEO with Steven Bartlett : The read operation timed out
+Беру: The High Performance Podcast | Mauricio Pochettino & Jesús Pérez: What Man United Fans Can Expect
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Готово: 38 сек, 171 слов/мин
+[0;93m2026-11-14 12:37:52.648999161 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Готово: 37 сек, 172 слов/мин
 TELEGRAM_TOKEN не задан, уведомление пропущено

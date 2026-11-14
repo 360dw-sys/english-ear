@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -520,6 +520,24 @@
       "transcript": "This is a crisis of European modernity, and then you meet somebody who's come from a rapidly growing economy in Indonesia, for example. It was very difficult, I think, to generalize about people's economic background, the societies they'd come from, even their educational level. There were doctors, there were engineers, and then there were very poorly educated people. Anyway, back over to you, maybe, to tell us a little bit more about this. You explained this very well, because one of the issues of dealing with extremism is generalization. We cannot generalize. It is not the same source. It is not the same story.",
       "auto_transcript": true,
       "episode_link": "",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-11-14-8414",
+      "date": "2026-11-14",
+      "title": "Mauricio Pochettino & Jesús Pérez: What Man United Fans Can Expect",
+      "speaker": "The High Performance Podcast",
+      "accent": "британский",
+      "topic": "успех и мышление",
+      "level": 3,
+      "audio": "https://sphinx.acast.com/p/acast/s/the-high-performance-podcast/e/6af5ed1feeddda9bb5fb5c41/media.mp3?tk=eyJ0ayI6ImRlZmF1bHQiLCJhZHMiOnRydWUsInNwb25zIjp0cnVlLCJzdGF0dXMiOiJwdWJsaWMifQ==&sig=F_GjfHdRpkkuIRpcwz-blFyl_oxVmWFivYmoGN0shV4",
+      "start": 1429,
+      "end": 1466,
+      "why": "Живая речь, фрагмент с 23:49 выпуска, темп около 172 слов в минуту.",
+      "transcript": "Coach, okay, it was good. You know, it's so interesting this, isn't it? Because your job really is to get the players absolutely primed for a Saturday for a kickoff. You can't go too much because it kills their confidence. You can't go too little because they relax. It's about trying to get it absolutely perfect. What is the secret to priming them for that moment, do you think? The secret is to read that mother and the emotional signal from the group. And did you ever get it wrong? Go too much or go too little? Yes, sometimes you are wrong.",
+      "auto_transcript": true,
+      "episode_link": "https://shows.acast.com/the-high-performance-podcast/episodes/mauricio-pochettino-jesus-perez-what-man-united-fans-can-exp",
       "focus": [],
       "reductions": []
     }
