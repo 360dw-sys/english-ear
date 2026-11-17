@@ -1,4 +1,5 @@
-Беру: The High Performance Podcast | Ross Edgley: Why I Pushed Myself To Extremes And What It Cost Me (E448)
+Беру: The Rest Is Money | 332. How to make a million in... Crypto - with Anthony Scaramucci (Part 1)
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-Готово: 37 сек, 224 слов/мин
+[0;93m2026-11-17 14:50:20.310033433 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Готово: 39 сек, 213 слов/мин
 TELEGRAM_TOKEN не задан, уведомление пропущено
