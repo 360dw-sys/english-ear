@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -646,6 +646,24 @@
       "transcript": "I'm sure they did once they'd got the all clear. Your career and family continue to go throughout the 70s. You had a second son, and you started taking on TV work. Tell me about your first audition. Somebody came to see me from Yorkshire Town, who were making this new series called Don't Ask Me, and they suggested this audition. What I had to do was to describe the flu molecule. I did the best I could, and then the executive producer came down onto the floor and he said, well, that was not bad. He said, but would you try doing it this way?",
       "auto_transcript": true,
       "episode_link": "http://www.bbc.co.uk/programmes/m00331rc",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-11-21-1169",
+      "date": "2026-11-21",
+      "title": "Most Replayed Moment: Why 3 Meals A Day Could Be Aging You! Harvard Longevity Scientist",
+      "speaker": "The Diary Of A CEO with Steven Bartlett",
+      "accent": "британский",
+      "topic": "бизнес и люди",
+      "level": 4,
+      "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M4BHK8QYREX41SA3DWR2F959.mp3",
+      "start": 1062,
+      "end": 1102,
+      "why": "Живая речь, фрагмент с 17:42 выпуска, темп около 215 слов в минуту.",
+      "transcript": "So yes, we've been taking it for over a decade now, and we're still alive. So, so far, so good. So far, so good. I do want to get into, and I will ask you in a second about the supplement stack that you would recommend for the average person, but that's good to know. But just to close off on this point of fasting, is there a particular type of fasting method that you would recommend for someone who's trying to, you know, improve their longevity? Because there's so many that I hear, 16 hours, five days. I'm a scientist, so I go with what's proven. I'm not selling anything. So what the science says, first of all, is that there isn't one size fits all for everybody. It often depends on what you can do personally.",
+      "auto_transcript": true,
+      "episode_link": "",
       "focus": [],
       "reductions": []
     }
