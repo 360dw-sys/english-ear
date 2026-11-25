@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "clips": [
     {
       "id": "2026-10-16-38196",
@@ -718,6 +718,24 @@
       "transcript": "Brian, it's great to have you with us on the news agents. Is that it? Is it that he is just too big to fail? That was my conclusion when this was breaking and we were live on CNN about 24 hours ago. I was looking at the stock market prices for the past three, four, five, six months, not just for NVIDIA, which had a steep decline in the past few weeks because of the Jensen Long scandal, but also other chip companies and other AI companies and all of the others that are in NVIDIA's orbit. We're talking about companies whose share prices have fallen 50 and 60 percent from their highs earlier this year.",
       "auto_transcript": true,
       "episode_link": "https://www.thenewsagents.co.uk/",
+      "focus": [],
+      "reductions": []
+    },
+    {
+      "id": "2026-11-25-61941",
+      "date": "2026-11-25",
+      "title": "591. Burnham’s Brexit Rethink and the Return of the Rwanda Scheme",
+      "speaker": "The Rest Is Politics",
+      "accent": "британский",
+      "topic": "политика",
+      "level": 4,
+      "audio": "https://pdst.fm/e/traffic.megaphone.fm/GLT5960603905.mp3",
+      "start": 1621,
+      "end": 1659,
+      "why": "Живая речь, фрагмент с 27:01 выпуска, темп около 220 слов в минуту.",
+      "transcript": "That was an absolute nightmare. Why did I put myself through this? But do I want to go through all the 10 years of trying to get remarried again? No, I can't face that either. Yes, I think the less, the more fresh the arguments sound, the more likely it is to succeed. And I think a lot of the pro-Europeans have a lot to answer for it because they had become very complacent. Some of them woke up in Britain much too late. And I tell you, this is my worry now in France and Germany. Those who assume that this structure that has served us so well for 75 years, economically, in terms of security, I mean, Germany is surrounded by friends. This is not what you would have expected in 1948.",
+      "auto_transcript": true,
+      "episode_link": "",
       "focus": [],
       "reductions": []
     }
