@@ -1,5 +1,7 @@
-Беру: Desert Island Discs | Harlan Coben, novelist
+Беру: The Diary Of A CEO with Steven Bartlett | Most Replayed Moment: The Parts of Success You Don't See  - Tom Aspinall
 Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
-[0;93m2026-11-26 15:40:26.420536288 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
-Готово: 36 сек, 238 слов/мин
+[0;93m2026-11-27 15:30:23.468773463 [W:onnxruntime:Default, device_discovery.cc:95 GetPciBusId] Skipping pci_bus_id for PCI path at "/sys/devices/LNXSYSTM:00/LNXSYBUS:00/ACPI0004:00/MSFT1000:00/5620e0c7-8062-4dce-aeb7-520c7ef76171" because filename "5620e0c7-8062-4dce-aeb7-520c7ef76171" did not match expected pattern of [0-9a-f]+:[0-9a-f]+:[0-9a-f]+[.][0-9a-f]+[m
+Не нашёл чистый фрагмент, пробую следующий подкаст
+Беру: The High Performance Podcast | Bryan Habana: The Springbok Icon Betrayed By His Own Father & the Secret He Had to Keep (E451)
+Готово: 43 сек, 202 слов/мин
 TELEGRAM_TOKEN не задан, уведомление пропущено
